@@ -12,7 +12,7 @@ def fallout
   puts "War, War Never Changes."
  end 
  def any_phrase(phrase)
-   phrase = "Do a Barrel Roll \n"
+   phrase = "Do a Barrel Roll\n"
    puts phrase 
    
  end 
