@@ -10,6 +10,7 @@ end
 def fallout 
   puts "War, War Never Changes."
  end 
- def soap 
-   puts "How'd a muppet like you pass inspection?"
+ def fox
+   puts "Do a Barrel Roll \n"
+   
  end 
