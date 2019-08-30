@@ -12,6 +12,6 @@ def fallout
  end 
  def any_phrase(phrase)
    phrase = "Do a Barrel Roll \n"
-   put phrase 
+   puts phrase 
    
  end 
